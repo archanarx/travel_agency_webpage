@@ -1,15 +1,13 @@
-## 🌍 Travel-Themed Webpage
+##  Travel-Themed Webpage
 
 A simple Bootstrap-based travel webpage with an auto-sliding image banner, destination captions, and a Book Now popup.
 Built while learning Bootstrap.
 
-### ✨ Features
+###  Features
 - Image slider with captions
 - Centered booking popup
 - Info icon with hover message
 
-### 🎥 Demo
+###  Demo
 https://github.com/archanarx/travel_agency_webpage/blob/main/screenshots/demo.mp4
 
-### 🚀 Run
-Open `travel_webpage.html` in a browser.
